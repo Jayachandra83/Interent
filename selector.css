@@ -1,0 +1,5 @@
+h1 { color: rgba(55, 226, 118, 0); }
+h2.blue { color: rgb(0, 255, 0); }
+.gray { color: gray; }
+#golden { color: rgb(188, 28, 33); }
+.container :nth-child(2n) { background: rgb(192, 192, 22); }
