@@ -1,0 +1,20 @@
+.cricle {
+    border: 1px solid rgb(230, 8, 8);
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box {
+    border: 1px solid rgb(25, 0, 255);
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#cent {
+    color: rgb(20, 20, 23);
+}
